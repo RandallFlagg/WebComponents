@@ -1,0 +1,10 @@
+{
+  "name": "wc-vuejs-form-field",
+  "version": "1.0.0",
+  "description": "This control is a form field containing an input and a label elements together with error displaying",
+  "main": "index.js",
+  "repository": "https://github.com/RandallFlagg/WebComponents/tree/master/Vue.js/Form%20Elements/FormField",
+  "author": "OAG",
+  "license": "MIT",
+  "private": false
+}
